@@ -1,0 +1,18 @@
+{
+  "name": "gulp-sassify",
+  "version": "0.1.0",
+  "description": "Watch SCSS file, compile to CSS and then copy it to a remote server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-ruby-sass": "^0.7.1",
+    "gulp-sass": "^0.7.3",
+    "gulp-sftp": "^0.1.2",
+    "gulp-watch": "^1.0.5"
+  }
+}
